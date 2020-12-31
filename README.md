@@ -3,6 +3,9 @@ A cool repository I use to start making a new bot.
 It saves me a lot of time.
 
 # Things to do before starting
+### Run `npm i`
+Duh.
+
 ### Make `.env` file
 The `.env` file currently requires:
 ```js
