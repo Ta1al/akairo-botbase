@@ -18,9 +18,9 @@
   "author": "Talal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/000Lonewolf/botBase/issues"
+    "url": "https://github.com/Ta1al/botBase/issues"
   },
-  "homepage": "https://github.com/000Lonewolf/botBase#readme",
+  "homepage": "https://github.com/Ta1al/botBase#readme",
   "dependencies": {
     "better-logging": "^4.4.0",
     "chalk": "^4.1.0",
